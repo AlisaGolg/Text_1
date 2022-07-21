@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Anna\Test_1\AS\bin\Debug\net6.0\AS.exe
+C:\Users\Lenovo\Anna\Test_1\AS\bin\Debug\net6.0\AS.deps.json
+C:\Users\Lenovo\Anna\Test_1\AS\bin\Debug\net6.0\AS.runtimeconfig.json
+C:\Users\Lenovo\Anna\Test_1\AS\bin\Debug\net6.0\AS.dll
+C:\Users\Lenovo\Anna\Test_1\AS\bin\Debug\net6.0\AS.pdb
+C:\Users\Lenovo\Anna\Test_1\AS\obj\Debug\net6.0\AS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Anna\Test_1\AS\obj\Debug\net6.0\AS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Anna\Test_1\AS\obj\Debug\net6.0\AS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Anna\Test_1\AS\obj\Debug\net6.0\AS.AssemblyInfo.cs
+C:\Users\Lenovo\Anna\Test_1\AS\obj\Debug\net6.0\AS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Anna\Test_1\AS\obj\Debug\net6.0\AS.dll
+C:\Users\Lenovo\Anna\Test_1\AS\obj\Debug\net6.0\refint\AS.dll
+C:\Users\Lenovo\Anna\Test_1\AS\obj\Debug\net6.0\AS.pdb
+C:\Users\Lenovo\Anna\Test_1\AS\obj\Debug\net6.0\AS.genruntimeconfig.cache
+C:\Users\Lenovo\Anna\Test_1\AS\obj\Debug\net6.0\ref\AS.dll
