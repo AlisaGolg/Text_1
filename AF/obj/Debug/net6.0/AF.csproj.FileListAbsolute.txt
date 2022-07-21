@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Anna\Test_1\AF\bin\Debug\net6.0\AF.exe
+C:\Users\Lenovo\Anna\Test_1\AF\bin\Debug\net6.0\AF.deps.json
+C:\Users\Lenovo\Anna\Test_1\AF\bin\Debug\net6.0\AF.runtimeconfig.json
+C:\Users\Lenovo\Anna\Test_1\AF\bin\Debug\net6.0\AF.dll
+C:\Users\Lenovo\Anna\Test_1\AF\bin\Debug\net6.0\AF.pdb
+C:\Users\Lenovo\Anna\Test_1\AF\obj\Debug\net6.0\AF.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Anna\Test_1\AF\obj\Debug\net6.0\AF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Anna\Test_1\AF\obj\Debug\net6.0\AF.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Anna\Test_1\AF\obj\Debug\net6.0\AF.AssemblyInfo.cs
+C:\Users\Lenovo\Anna\Test_1\AF\obj\Debug\net6.0\AF.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Anna\Test_1\AF\obj\Debug\net6.0\AF.dll
+C:\Users\Lenovo\Anna\Test_1\AF\obj\Debug\net6.0\refint\AF.dll
+C:\Users\Lenovo\Anna\Test_1\AF\obj\Debug\net6.0\AF.pdb
+C:\Users\Lenovo\Anna\Test_1\AF\obj\Debug\net6.0\AF.genruntimeconfig.cache
+C:\Users\Lenovo\Anna\Test_1\AF\obj\Debug\net6.0\ref\AF.dll
