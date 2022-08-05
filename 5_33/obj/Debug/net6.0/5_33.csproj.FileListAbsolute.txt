@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Anna\Test_1\5_33\bin\Debug\net6.0\5_33.exe
+C:\Users\Lenovo\Anna\Test_1\5_33\bin\Debug\net6.0\5_33.deps.json
+C:\Users\Lenovo\Anna\Test_1\5_33\bin\Debug\net6.0\5_33.runtimeconfig.json
+C:\Users\Lenovo\Anna\Test_1\5_33\bin\Debug\net6.0\5_33.dll
+C:\Users\Lenovo\Anna\Test_1\5_33\bin\Debug\net6.0\5_33.pdb
+C:\Users\Lenovo\Anna\Test_1\5_33\obj\Debug\net6.0\5_33.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Anna\Test_1\5_33\obj\Debug\net6.0\5_33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Anna\Test_1\5_33\obj\Debug\net6.0\5_33.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Anna\Test_1\5_33\obj\Debug\net6.0\5_33.AssemblyInfo.cs
+C:\Users\Lenovo\Anna\Test_1\5_33\obj\Debug\net6.0\5_33.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Anna\Test_1\5_33\obj\Debug\net6.0\5_33.dll
+C:\Users\Lenovo\Anna\Test_1\5_33\obj\Debug\net6.0\refint\5_33.dll
+C:\Users\Lenovo\Anna\Test_1\5_33\obj\Debug\net6.0\5_33.pdb
+C:\Users\Lenovo\Anna\Test_1\5_33\obj\Debug\net6.0\5_33.genruntimeconfig.cache
+C:\Users\Lenovo\Anna\Test_1\5_33\obj\Debug\net6.0\ref\5_33.dll
